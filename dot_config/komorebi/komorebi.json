@@ -13,6 +13,13 @@
     "unfocused_border": "Base03",
     "bar_accent": "Base0D"
   },
+  "floating_applications": [
+    {
+      "kind": "Title",
+      "id": "Media Player",
+      "matching_strategy": "Equals"
+    }
+  ],
   "monitors": [
     {
       "workspaces": [
